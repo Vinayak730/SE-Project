@@ -1,0 +1,9 @@
+started implemented the classes discussed
+create a UI file with options to upload a file or provie text(encrypt)
+create a User class that stores that works as a connecting bridge to algorithms and UI
+algorithms class(file) that has various algos in subclasses
+
+meeting minutes:
+27th march, Sunday,9:15am-9:30am
+29th march, Tuesday, 12:-12:10pm
+
